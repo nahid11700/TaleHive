@@ -326,7 +326,7 @@ class _ProfileDetails extends StatelessWidget {
         ),
         Text(
           user['genres'] as String,
-          style: const TextStyle(color: Color(0xFF4a4e69), fontSize: 15),
+          style: const TextStyle(color: Color(0xFF4a4e69), fontSize: 16),
         ),
       ],
     );
